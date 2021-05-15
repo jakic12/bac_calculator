@@ -35,7 +35,7 @@ BAC = A/(r × Wₜ) - β × T
 
   And then getting the ratio with
 
-      	r = Wₜ / TBW
+      	r = TBW / Wₜ
 
 - Assumption  
   `β` the rate at which alcohol is metabolized is assumed a bit lower at `0.015`
